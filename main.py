@@ -102,7 +102,6 @@ old_products_listbox.grid(column=0, row=3, columnspan=2)
 entry.grid(column=0, row=4, pady=5)
 insert_button.grid(column=1, row=4)
 contextual_research_button.grid(column=0, row=5, columnspan=2)
-
 root.mainloop()
 
 
